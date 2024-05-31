@@ -1,5 +1,7 @@
-from DateTime import DateTime
+import datetime
 
-e = DateTime('JPN')
+e = datetime.now()
 
 print(e)
+
+print("Hello World")
