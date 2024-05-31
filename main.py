@@ -1,4 +1,4 @@
-from DateTime import DaTetime
+from DateTime import DateTime
 
 e = DateTime('JPN')
 
